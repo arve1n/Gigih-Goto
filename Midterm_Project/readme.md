@@ -42,7 +42,7 @@ The API has the following endpoints:
 
 ## API Request and Response Examples
 
-Please check the following Gist for API request and response examples: 
+Please check the following Gist for API request and response examples: [API Examples](https://gist.github.com/arve1n/46534366114acd8c3052b763897bd6e4).
 
 ## How to Run
 
