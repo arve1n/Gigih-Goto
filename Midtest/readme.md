@@ -16,7 +16,8 @@ The database consists of three main collections:
 
 - `VideoID` (String, required): Unique identifier for the video.
 - `UrlImageThumbnail` (String, required): URL to the thumbnail image for the video.
-
+- `UrlVid` (String, required): URL to the video.
+  
 ## Products Collection
 
 - `ProductID` (String, required): Unique identifier for the product.
